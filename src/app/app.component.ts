@@ -6,5 +6,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'TodoApp';
+  title = 'PrimeNg TodoApp';
+  todos = [
+    {
+      id: 1,
+      task: 'first todo',
+      completed: false
+    }
+  ]
 }
