@@ -3,8 +3,8 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { from } from 'rxjs';
-import {CardModule} from 'primeng/card';
-import {TableModule} from 'primeng/table';
+import { CardModule } from 'primeng/card';
+import { TableModule } from 'primeng/table';
 import { FormsModule } from '@angular/forms';
 @NgModule({
   declarations: [
