@@ -19,7 +19,7 @@ export class AppComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.getList();
+    this.getList(); //
   }
 
   getList() {

@@ -1,24 +1,19 @@
 {
   "todos": [
     {
-      "task": "Make youtube video",
-      "completed": true,
-      "id": 1
+      "id": "fbfb",
+      "task": "Müzik Dinlemek",
+      "completed": true
     },
     {
-      "task": "Read books",
-      "completed": true,
-      "id": 2
+      "id": "c497",
+      "task": "Resim Yapmak",
+      "completed": false
     },
     {
-      "task": "Fix the bug",
-      "completed": false,
-      "id": 3
-    },
-    {
-      "task": "Test application",
-      "completed": false,
-      "id": 4
+      "id": "eb39",
+      "task": "Yazılım Geliştirmek",
+      "completed": false
     }
   ]
 }
